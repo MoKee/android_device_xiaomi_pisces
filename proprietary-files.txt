@@ -21,6 +21,7 @@ lib/hw/audio.primary.tegra.so
 lib/hw/gralloc.tegra.so
 lib/hw/hwcomposer.tegra.so
 lib/hw/sensors.pisces.so
+lib/libImmVibeJ.so
 lib/modules/baseband_usb_chr.ko
 lib/modules/raw_ip_net.ko
 lib/modules/sd8797mlan.ko
@@ -31,6 +32,8 @@ lib/modules/tcrypt.ko
 lib/modules/mbt8797.ko
 lib/modules/sd8797.ko
 lib/modules/wl12xx.ko
+etc/android_model_facea.dat
+etc/android_model_faceg.dat
 etc/libnfc-brcm-43341b00.conf
 etc/libnfc-brcm.conf
 etc/mcrash_trigger.config
@@ -139,7 +142,6 @@ bin/inv_self_test
 bin/load_audience_fw.sh
 bin/atmel_fw_update.sh
 bin/mount_debugfs.sh
-bin/mount_ext4.sh
 bin/nvcap_test
 bin/nvcgcserver
 bin/nv_hciattach

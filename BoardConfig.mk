@@ -96,7 +96,7 @@ TARGET_RECOVERY_FSTAB := device/xiaomi/pisces/fstab.pisces
 BOARD_HAVE_GPS_BCM := true
 
 # Vibrator
-BOARD_HAS_VIBRATOR_IMPLEMENTATION := ../../device/xiaomi/pisces/tspdrv.c
+BOARD_HAS_VIBRATOR_IMPLEMENTATION := ../../device/xiaomi/pisces/vibrator.c
 
 # Recovery
 TARGET_RECOVERY_FSTAB := device/xiaomi/pisces/fstab.pisces
