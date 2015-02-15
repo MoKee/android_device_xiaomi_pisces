@@ -25,7 +25,3 @@ PRODUCT_NAME := mk_pisces
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := MI 3
 PRODUCT_MANUFACTURER := Xiaomi
-
-# Enable Torch
-PRODUCT_PACKAGES += Torch
-
