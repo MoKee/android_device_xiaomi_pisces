@@ -1,4 +1,4 @@
-# override CM resource
+# override MK resource
 PRODUCT_PACKAGE_OVERLAYS += device/xiaomi/pisces/productoverlay
 
 ## Specify phone tech before including full_phone
