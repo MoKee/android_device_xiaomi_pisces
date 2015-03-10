@@ -20,7 +20,7 @@
 # In particular, you can add lunch options with the add_lunch_combo
 # function: add_lunch_combo generic-eng
 
-add_lunch_combo cm_pisces-userdebug
-add_lunch_combo cm_pisces-eng
+add_lunch_combo mk_pisces-userdebug
+add_lunch_combo mk_pisces-eng
 sh device/xiaomi/pisces/patch/applypatch.sh
 
